@@ -1,0 +1,10 @@
+{
+    "prefix": "/",
+    "token": "Nzc0MTY4NTU0NzczMTUxNzQ0.X6T2pg.vrBXPFMSVQywiyhTS30xNDGmaeQ",
+    "bot_age" : 1,
+    "words_array" : ["help"],
+    "bot_info":{
+        "name" :"HSB BOT",
+        "version" : 1.0
+    }
+}
